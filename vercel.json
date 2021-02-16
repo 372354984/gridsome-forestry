@@ -1,0 +1,9 @@
+{
+    "version":1,
+    "builds":[
+        {
+            "src":"gridsome.server.js",
+            "use":"gridsome explore"
+        }
+    ]
+}
